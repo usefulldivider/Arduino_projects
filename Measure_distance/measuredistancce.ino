@@ -34,7 +34,7 @@ void dis_cm(long duration)
 }
 void dis_inch(long duration)
 {
- distance_inch = (duration/2) * 0.0133 ; // Divide by 2 to get one-way distance
+ distance_inch = (duration/2) * 0.0133 ;
    if (distance_inch >= 78 || distance_inch <= 0){
     
     lcd.setCursor(0, 0);
@@ -58,7 +58,7 @@ void loop() {
   duration = pulseIn(echoPin, HIGH);
   Serial.println(digitalRead(BUTTON));
   if (digitalRead(BUTTON) == LOW) {
-    delay(50); // Debouncing delay
+    delay(50); 
     if (bp == 0) 
       bp = 1;
     else 

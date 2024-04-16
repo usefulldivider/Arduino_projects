@@ -6,7 +6,7 @@ This project utilizes an Arduino Uno along with a few electronic components to c
 - Arduino Uno
 - 100k resistor
 - Push button
-- Ultrasonic sensor
+- Ultrasonic sensor ->https://docs.google.com/document/d/1Y-yZnNhMYy7rwhAgyL_pfa39RsB-x2qR4vP8saG73rE/edit
 - Cables
 - LCD Screen with I2C
 

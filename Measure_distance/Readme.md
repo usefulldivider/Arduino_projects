@@ -31,6 +31,15 @@ This project measures distance using an ultrasonic sensor and displays it on the
 
 Make sure to connect the LCD screen to the Arduino according to its datasheet or provided wiring instructions.
 
+##Working
+In cm
+![in cm](https://github.com/usefulldivider/Arduino_projects/assets/143326541/7f1a7982-b40a-4102-9cc8-583f6c5f0e71)
+
+In inches
+![in inches](https://github.com/usefulldivider/Arduino_projects/assets/143326541/40cc6fff-c30b-48b9-b180-646276dc69a8)
+
+
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas for improvement or would like to add features, feel free to open an issue or submit a pull request.
